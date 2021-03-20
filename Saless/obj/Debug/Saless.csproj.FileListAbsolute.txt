@@ -1,0 +1,7 @@
+C:\Users\ASUS X510Q\source\repos\Saless\Saless\bin\Debug\Saless.exe.config
+C:\Users\ASUS X510Q\source\repos\Saless\Saless\bin\Debug\Saless.exe
+C:\Users\ASUS X510Q\source\repos\Saless\Saless\bin\Debug\Saless.pdb
+C:\Users\ASUS X510Q\source\repos\Saless\Saless\obj\Debug\Saless.csprojAssemblyReference.cache
+C:\Users\ASUS X510Q\source\repos\Saless\Saless\obj\Debug\Saless.csproj.CoreCompileInputs.cache
+C:\Users\ASUS X510Q\source\repos\Saless\Saless\obj\Debug\Saless.exe
+C:\Users\ASUS X510Q\source\repos\Saless\Saless\obj\Debug\Saless.pdb
